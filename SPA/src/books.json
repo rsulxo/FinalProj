@@ -1,0 +1,493 @@
+{
+  "store" : [
+    {
+      "category": "fiction",
+      "books": [
+        {
+          "name": "Harry Potter",
+          "author": "J.K Rowling",
+          "rate": "3.00",
+          "voters": "822",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Leo Wolf",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "adventure1.jpg"
+        },
+        {
+          "name": "Old Baggage",
+          "author": "Lissa Evans",
+          "rate": "4.06",
+          "voters": "31,736",
+          "people": [
+            "Carolina Peters",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "adventure2.jpg"
+        },
+        {
+          "name": "Transcription",
+          "author": "Kate Atkinson",
+          "rate": "4.26",
+          "voters": "28,584",
+          "people": [
+            "John Doe",
+            "Maria Smith",
+            "Leo Wolf",
+            "Peter Brown"
+          ],
+          "image": "adventure3.jpg"
+        },
+        {
+          "name": "A Song of Ice and Fire",
+          "author": "George R.R. Martin",
+          "rate": "4.44",
+          "voters": "18,916",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith"
+          ],
+          "image": "adventure4.jpg"
+        },
+        {
+          "name": "Twisted",
+          "author": "Steve Cavanagh",
+          "rate": "4.13",
+          "voters": "297,843",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "crime1.jpg"
+        },
+        {
+          "name": "Past Tense",
+          "author": "Lee Child",
+          "rate": "3.96",
+          "voters": "1,930",
+          "people": [],
+          "image": "crime2.jpg"
+        },
+        {
+          "name": "Hunter",
+          "author": "Lars Kepler",
+          "rate": "4.13",
+          "voters": "297,843",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "crime3.jpg"
+        },
+        {
+          "name": "The First Lady",
+          "author": "James Patterson",
+          "rate": "4.13",
+          "voters": "297,843",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "crime4.jpg"
+        },
+        {
+          "name": "Paris for One",
+          "author": "Jojo Moyes",
+          "rate": "4.13",
+          "voters": "297,843",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "romance1.jpg"
+        },
+        {
+          "name": "Pride and Prejudice",
+          "author": "Jane Austen",
+          "rate": "4.13",
+          "voters": "297,843",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "romance2.jpg"
+        },        {
+          "name": "A Rose Petal Summer",
+          "author": "Katie Fforde",
+          "rate": "4.13",
+          "voters": "297,843",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "romance3.jpg"
+        },
+        {
+          "name": "Nine Perfect Strangers",
+          "author": "Liane Moriarty",
+          "rate": "4.13",
+          "voters": "297,843",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "romance4.jpg"
+        },        {
+          "name": "It",
+          "author": "Stephen King",
+          "rate": "4.13",
+          "voters": "297,843",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "horror1.jpg"
+        },
+        {
+          "name": "Bird Box",
+          "author": "Josh Malerman",
+          "rate": "4.13",
+          "voters": "297,843",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "horror2.jpg"
+        },
+        {
+          "name": "John Dies at the End",
+          "author": "David Wong",
+          "rate": "4.13",
+          "voters": "297,843",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "horror3.jpg"
+        },        {
+          "name": "Interview With The Vampire",
+          "author": "Anne Rice",
+          "rate": "4.13",
+          "voters": "297,843",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "horror4.jpg"
+        }
+      ]
+    },
+    {
+      "category": "non-fiction",
+      "books": [
+        {
+          "name": "The Future of Humanity",
+          "author": "Michio Kaku",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "astronomy1.jpg"
+        },
+        {
+          "name": "The Last Man on the Moon",
+          "author": "Eugene A. Cernan and Don Davis",
+          "rate": "3.56",
+          "voters": "724",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Maria Smith",
+            "Leo Wolf",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "astronomy2.jpg"
+        },
+        {
+          "name": "Ask an Astronaut",
+          "author": "Tim Peake",
+          "rate": "4.13",
+          "voters": "1,943,955",
+          "people": [
+            "Carolina Peters",
+            "John Doe",
+            "Leo Wolf",
+            "Samantha William",
+            "Peter Brown"
+          ],
+          "image": "astronomy3.jpg"
+        },
+        {
+          "name": "Cosmos",
+          "author": "Carl Sagan",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "astronomy4.jpg"
+        },
+        {
+          "name": "Digital Minimalism",
+          "author": "Cal Newporth",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "computing1.jpg"
+        },
+        {
+          "name": "Zucked",
+          "author": "Roger McNamee",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "computing2.jpg"
+        },
+        {
+          "name": "Life 3.0",
+          "author": "Max Tegmark",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "computing3.jpg"
+        },
+        {
+          "name": "The Creativity Code",
+          "author": "Marcus du Sautoy",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "computing4.jpg"
+        },
+        {
+          "name": "Chernobyl",
+          "author": "Serhii Plokhy",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "history1.jpg"
+        },
+        {
+          "name": "Viking Britain",
+          "author": "Thomas Williams",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "history2.jpg"
+        },
+        {
+          "name": "A Spy Named Orphan",
+          "author": "Roland Philipps",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "history3.jpg"
+        },
+        {
+          "name": "The Silk Roads",
+          "author": "Peter Frankopan",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "history4.jpg"
+        },
+        {
+          "name": "The Selfish Gene",
+          "author": "Richard Dawkins",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "science1.jpg"
+        },
+        {
+          "name": "The Language of Kindness",
+          "author": "Christie Watson",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "science2.jpg"
+        },
+        {
+          "name": "Wilding",
+          "author": "Isabella Tree",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "science3.jpg"
+        },
+        {
+          "name": "Thinking, Fast and Slows",
+          "author": "Daniel Kahneman",
+          "rate": "4.45",
+          "voters": "81,535",
+          "people": [
+            "Carolina Peters",
+            "Samantha William"
+          ],
+          "image": "science4.jpg"
+        }
+      ]
+    },
+    {
+      "category": "offers",
+      "books": [
+        {
+          "name": "Harry Potter",
+          "author": "J.K Rowling",
+          "rate": "4.23",
+          "voters": "67,029",
+          "people": [
+            "John Doe",
+            "Maria Smith",
+            "Leo Wolf"
+          ],
+          "image": "adventure1.jpg"
+        },
+        {
+          "name": "Twisted",
+          "author": "Steve Cavanagh",
+          "rate": "3.75",
+          "voters": "8",
+          "people": [],
+          "image": "crime1.jpg"
+        },
+        {
+          "name": "Paris for One",
+          "author": "Jojo Moyes",
+          "rate": "3.84",
+          "voters": "4,230",
+          "people": [
+            "Carolina Peters"
+          ],
+          "image": "romance1.jpg"
+        },
+        {
+          "name": "It",
+          "author": "Stephen King",
+          "rate": "",
+          "voters": "",
+          "people": [
+            "John Doe"
+          ],
+          "image": "horror1.jpg"
+        },
+        {
+          "name": "The Future of Humanity",
+          "author": "Michio Kaku",
+          "rate": "3.84",
+          "voters": "4,230",
+          "people": [
+            "Carolina Peters"
+          ],
+          "image": "astronomy1.jpg"
+        },
+        {
+          "name": "The Creativity Code",
+          "author": "Marcus du Sautoy",
+          "rate": "3.84",
+          "voters": "4,230",
+          "people": [
+            "Carolina Peters"
+          ],
+          "image": "computing1.jpg"
+        },
+        {
+          "name": "Chernobyl",
+          "author": "Serhii Plokhy",
+          "rate": "3.84",
+          "voters": "4,230",
+          "people": [
+            "Carolina Peters"
+          ],
+          "image": "history1.jpg"
+        },
+        {
+          "name": "The Selfish Gene",
+          "author": "Richard Dawkins",
+          "rate": "3.84",
+          "voters": "4,230",
+          "people": [
+            "Carolina Peters"
+          ],
+          "image": "science1.jpg"
+        }
+      ]
+    }
+  ]
+}
